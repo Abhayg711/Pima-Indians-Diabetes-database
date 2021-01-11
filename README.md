@@ -4,7 +4,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
 
-Objecttive of this code is to text out various classification techniques - kNN, Random Forest & ANN using Pytorch
+Objective of this code is to text out various classification techniques - kNN, Random Forest & ANN using Pytorch
 
 kNN - The k-nearest neighbors algorithm is a supervised machine learning algorithm that can be used to solve both classification and regression problems. It classifies the test data points based on the majority class of nearest neighors.
 
